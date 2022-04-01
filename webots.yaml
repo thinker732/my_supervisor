@@ -1,0 +1,5 @@
+type: demo
+animation:
+  worlds:
+    - file: worlds/my_supervisor.wbt
+      duration: 10
