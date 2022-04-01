@@ -8,5 +8,3 @@ orthographicViewHeight: 1
 textFiles: 2 "../my_first_simulation/controllers/four_wheeled_collision_avoidance/four_wheeled_collision_avoidance.py" "../my_first_simulation/controllers/epuck_avoid_collision/epuck_avoid_collision.py" "controllers/supervisor_controller/supervisor_controller.py"
 globalOptionalRendering: CoordinateSystem
 consoles: Console:All:All
-renderingDevicePerspectives: NAO:CameraBottom;1;1;0;0
-renderingDevicePerspectives: NAO:CameraTop;1;1;0;0
